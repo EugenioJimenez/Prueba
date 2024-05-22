@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS Ariketa 1</title>
+    <description>RSS Ariketa 1</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Primer Artículo</title>
+      <link>https://www.3djuegos.com/noticias</link>
+      <description>Este es el primer artículo.</description>
+      <pubDate>Wed, 22 May 2024 12:00:00 GMT</pubDate>
+      <enclosure url="https://images.unsplash.com/photo-1593642634443-44adaa06623a" length="12345" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>Segundo Artículo</title>
+      <link>https://www.rtve.es/noticias/</link>
+      <description>Este es el segundo artículo.</description>
+      <pubDate>Thu, 23 May 2024 12:00:00 GMT</pubDate>
+      <enclosure url="http://www.ejemplo.com/imagenes/imagen2.jpg" length="12345" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>Tercer Artículo</title>
+      <link>https://somoskudasai.com/</link>
+      <description>Este es el tercer artículo.</description>
+      <pubDate>Fri, 24 May 2024 12:00:00 GMT</pubDate>
+      <enclosure url="http://www.ejemplo.com/imagenes/imagen3.jpg" length="12345" type="image/jpeg" />
+    </item>
+
+  </channel>
+</rss>
